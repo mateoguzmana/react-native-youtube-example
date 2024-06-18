@@ -1,6 +1,6 @@
 {
   "name": "react-native-youtube-example",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Example of how to create a library for react-native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
